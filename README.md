@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="![image](https://github.com/Kadekastriyani/example/assets/143046587/1f6ee934-3523-4493-bf24-cac6b1b98ee7)" alt="Konva logo" height="180" />
+  <img src="![image](https://github.com/Kadekastriyani/example/assets/143046587/28e5e0fc-c0ed-4370-b42b-0f8955ce5748)" alt="Konva logo" height="180" />
 </p>
 
 
